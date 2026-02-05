@@ -1,0 +1,15 @@
+# Yii2 Runtime / Assets
+/librerias/vendor
+/codigo/runtime/*
+/codigo/web/assets/*
+!/codigo/web/assets/.gitignore
+
+# Logs
+*.log
+
+# IDE / System
+.idea
+.vscode
+.DS_Store
+Thumbs.db
+
