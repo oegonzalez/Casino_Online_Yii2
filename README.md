@@ -12,18 +12,18 @@ El proyecto integra tres módulos principales:
 
 ## 🚀 Funcionalidades Principales
 
-### 1. Juegos de Azar (Módulo G3/G4)
+### 1. Juegos de Azar 
 - **Tragamonedas (Slots)**: Juego visual con cálculo de premios en servidor.
 - **Ruleta**: Apuestas a número, color y paridad.
 - **Blackjack**: Juego de cartas contra el Dealer con lógica de plantarse/pedir.
 - **Seguridad**: Todas las validaciones de saldo y premios ocurren en el Backend para evitar trampas.
 
-### 2. Social (Módulo G6)
+### 2. Social 
 - **Mesas Privadas**: Los usuarios pueden crear mesas con contraseña para jugar en grupo.
 - **Sala de Chat**: Chat en tiempo real dentro de las mesas privadas.
 - **Moderación**: Filtro de palabras ofensivas y control de acceso.
 
-### 3. Gamificación (Módulo W6/G5)
+### 3. Gamificación 
 - **Torneos**: Competiciones activas donde los juegos suman puntos al ranking.
 - **Logros**: Sistema de medallas por hitos (ej. "Primera Victoria", "Gran Apostador").
 - **Economía**: Sistema robusto de Monedero y Transacciones (Historial de depósitos y apuestas).
